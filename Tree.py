@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""          Arbol Binario de Busqueda - Eladio Mejias CI: 24.327.261 / Manuel Perez  CI: 24.      """
+"""          Arbol Binario de Busqueda - Eladio Mejias CI:/ Manuel Perez      """
 """               Arbol de Busqueda Binario: Hijo derecho siempre debe ser mayor a la base o nodo padre            """
 
 
